@@ -1,8 +1,6 @@
 # calculator
 
-Projeto de uma calculadora em flutter para a aula de Desenvolvimento Mobile.
-
-## Aluno 
+Projeto de uma calculadora em flutter para a prática de Flutter
 
 - Vinicius Jorge de Oliveira
 
